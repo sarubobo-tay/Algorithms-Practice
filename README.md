@@ -17,10 +17,14 @@ This was mainly done in Python.
 <!-- Topics Covered -->
 ## Topics
 
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
+1. Basic Sorting - Insertion Sort, Merge Sort, Binary search and Bubble sort
+2. Growth Functions and asymptotic bounds
+3. Divide and conquer - Matrix multiplication with Strassen's vs Brute Force
+4. Heaps- Heapify, HeapSort. Heap CRUD.
+5. Quicksort - Hoare Partition, tail quicksort
+6. Linear Time Sorts - Count Sort, Radix Sort and Bucket Sort
+7. Elementry Data Structures - Stacks, Queues, Linkedlists with Sentinels
+8. Binary Search Trees - Search, MinMax, Pre/Post, Delete
+9. RB Trees - Search, MinMax, Insert, Deletion and internal rotations
 
 
