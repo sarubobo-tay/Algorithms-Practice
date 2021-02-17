@@ -26,5 +26,6 @@ This was mainly done in Python.
 7. Elementry Data Structures - Stacks, Queues, Linkedlists with Sentinels
 8. Binary Search Trees - Search, MinMax, Pre/Post, Delete
 9. RB Trees - Search, MinMax, Insert, Deletion and internal rotations
+10. Elementry Graphs- BFS, DFS, MST, Prim and Kruskal 
 
 
